@@ -1,7 +1,7 @@
 # vue3tasks
 
-See [App Firebase](https://vue-3-tasks.web.app/).
-See [App Firebase](https://vue-3-tasks.firebaseapp.com/).
+* See [App Firebase](https://vue-3-tasks.web.app/).<br>
+* See [App Firebase](https://vue-3-tasks.firebaseapp.com/).
 
 
 ## Project setup
