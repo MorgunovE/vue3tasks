@@ -1,7 +1,10 @@
 # vue3tasks
+```
+[npm install](https://vue-3-tasks.web.app/)
+```
+[[npm install](https://vue-3-tasks.web.app/)](https://vue-3-tasks.firebaseapp.com/)
+```
 
-https://vue-3-tasks.web.app/
-https://vue-3-tasks.firebaseapp.com/
 
 ## Project setup
 ```
